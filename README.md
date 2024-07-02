@@ -10,7 +10,7 @@
 
 <h5 align="center">
   <code><a href="www.linkedin.com/in/sayma-simu" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.instagram.com/simu_siddiqua?igsh=MWk0aXZzY3ljZWJpcQ==" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 </h5>
 
 
