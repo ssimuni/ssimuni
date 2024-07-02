@@ -24,7 +24,7 @@
   <br>
   📚 I’m currently learning how to build E-Commerce Website with Django
   <br>
-  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/ssimuni/ssimuni/" title="Issues">Here</a>
   <br>
   📫 How to reach me: <a href="mailto: saymasimu15@gmail.com">saymasimu15@gmail.com</a>
 </p>
