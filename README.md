@@ -1,5 +1,5 @@
 <p>
-  <img src="https://i.ibb.co/Qjj7Tz6/NEED-A-COPYWRITER.png" alt="" />
+  [<img align="left" alt="Visual Studio Code" src="https://i.ibb.co/Qjj7Tz6/NEED-A-COPYWRITER.png" style="padding-right:10px;" />][webdevplaylist]
 </p>
 ### Languages and Tools:
 
