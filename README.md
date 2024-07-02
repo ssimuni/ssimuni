@@ -31,7 +31,7 @@
 
 
 <hr>
-<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
+<h2 align="center">Languages & Tools</h2>
 <br>
 <p align="center">
   <code><img title="React" height="36" src="images/react-original.svg"></code>
@@ -50,8 +50,7 @@
   <code><img title="Java" height="36" src="images/java-original.svg"></code>
   <code><img title="JSON" height="36" src="images/json.svg"></code>
   <code><img title="MySQL" height="36" src="images/mysql.svg"></code>
-  <code><img title="npm" height="36" src="images/npm.svg"></code>
-   <code><img title="PHP" height="36" src="images/php.svg"></code>
+  <code><img title="PHP" height="36" src="images/php.svg"></code>
 </p>
 <hr>
 
