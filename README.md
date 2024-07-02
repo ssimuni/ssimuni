@@ -47,7 +47,6 @@
   <code><img title="SASS" height="36" src="images/sass.svg"></code>
   <code><img title="Git" height="36" src="images/git-original.svg"></code>
   <code><img title="Visual Studio Code" height="36" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="36" src="images/visualstudio.png"></code>
   <code><img title="Java" height="36" src="images/java-original.svg"></code>
   <code><img title="MySQL" height="36" src="images/mysql.svg"></code>
   <code><img title="PHP" height="36" src="images/php.svg"></code>
