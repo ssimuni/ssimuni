@@ -2,7 +2,6 @@
   <img src="images/banner.png" alt="" width="1020px" height="500px" />
 </p>
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ssimuni.ssimuni">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
