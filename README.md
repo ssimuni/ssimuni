@@ -37,12 +37,10 @@
   <code><img title="React" height="36" src="images/react-original.svg"></code>
   <code><img title="Javascript" height="36" src="images/javascript.svg"></code>
   <code><img title="HTML5" height="36" src="images/html5.svg"></code>
-  <code><img title="CSS" height="36" src="images/css.svg"></code>
-  
+  <code><img title="CSS" height="36" src="images/css.svg"></code> 
   <code><img title="Firebase" height="36" src="firebase.png"></code>
   <code><img title="MongoDB" height="36" src="mongodb.png"></code>
-  <code><img title="Tailwind" height="36" src="tailwind.png"></code>
-  
+  <code><img title="Tailwind" height="36" src="tailwind.png"></code> 
   <code><img title="Android" height="36" src="images/android.svg"></code>
   <code><img title="GitHub" height="36" src="images/github.svg"></code>
   <code><img title="C" height="36" src="images/c.svg"></code>
