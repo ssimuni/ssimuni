@@ -9,6 +9,21 @@
 </h5>
 
 
+<p align="center">
+  Hi,  I'm Sayma Siddiqua Simu, a Computer Science and Engineering student at the University of Chittagong. I am passionate about web development and always eager to learn and explore new technologies.
+  <br>
+  <br>
+  <br>
+  💻 I love writing code and learn anythings about it
+  <br>
+  📚 I’m currently learning how to build E-Commerce Website with Django
+  <br>
+  💬 Ask me anything about from <a href="https://github.com/zumrudu-anka/zumrudu-anka/issues" title="Issues">Here</a>
+  <br>
+  📫 How to reach me: <a href="mailto: saymasimu15@gmail.com">saymasimu15@gmail.com</a>
+</p>
+
+
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
