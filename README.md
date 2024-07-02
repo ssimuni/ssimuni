@@ -54,6 +54,12 @@
 </p>
 <hr>
 
+<p align=center>
+  <a href="https://github.com/ssimuni?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/ssimuni?style=flat-square&color=black&logo=github">
+  </a>
+</p>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
