@@ -31,27 +31,27 @@
 
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools & Abilities</h2>
 <br>
 <p align="center">
-   <code><img title="React" height="32" src="images/react-original.svg"></code>
-   <code><img title="Android" height="32" src="images/android.svg"></code>
-  <code><img title="GitHub" height="32" src="images/github.svg"></code>
-    <code><img title="Javascript" height="32" src="images/javascript.svg"></code>
-   <code><img title="HTML5" height="32" src="images/html5.svg"></code>
-  <code><img title="CSS" height="32" src="images/css.svg"></code>
-  <code><img title="C" height="32" src="images/c.svg"></code>
-  <code><img title="C++" height="32" src="images/cpp.svg"></code>
-  <code><img title="SASS" height="32" src="images/sass.svg"></code>
-  <code><img title="Git" height="32" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="32" src="images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="32" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="32" src="images/visualstudio.png"></code>
-  <code><img title="Java" height="32" src="images/java-original.svg"></code>
-  <code><img title="JSON" height="32" src="images/json.svg"></code>
-  <code><img title="MySQL" height="32" src="images/mysql.svg"></code>
-  <code><img title="npm" height="32" src="images/npm.svg"></code>
-   <code><img title="PHP" height="32" src="images/php.svg"></code>
+  <code><img title="React" height="36" src="images/react-original.svg"></code>
+  <code><img title="Android" height="36" src="images/android.svg"></code>
+  <code><img title="GitHub" height="36" src="images/github.svg"></code>
+  <code><img title="Javascript" height="36" src="images/javascript.svg"></code>
+  <code><img title="HTML5" height="36" src="images/html5.svg"></code>
+  <code><img title="CSS" height="36" src="images/css.svg"></code>
+  <code><img title="C" height="36" src="images/c.svg"></code>
+  <code><img title="C++" height="36" src="images/cpp.svg"></code>
+  <code><img title="SASS" height="36" src="images/sass.svg"></code>
+  <code><img title="Git" height="36" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="36" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="36" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="36" src="images/visualstudio.png"></code>
+  <code><img title="Java" height="36" src="images/java-original.svg"></code>
+  <code><img title="JSON" height="36" src="images/json.svg"></code>
+  <code><img title="MySQL" height="36" src="images/mysql.svg"></code>
+  <code><img title="npm" height="36" src="images/npm.svg"></code>
+   <code><img title="PHP" height="36" src="images/php.svg"></code>
 </p>
 <hr>
 
